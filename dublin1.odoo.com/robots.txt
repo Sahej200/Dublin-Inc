@@ -1,0 +1,11 @@
+
+
+User-agent: *
+Sitemap: https://dublin1.odoo.com/sitemap.xml
+
+
+##############
+#   custom   #
+##############
+
+
